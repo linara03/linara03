@@ -1,9 +1,5 @@
 <div align="center">
-
-# Hello, I'm Linara!
-
-### Passionate about AI, Machine Learning & Data-Driven innovation <br/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e3c72&height=160&section=header&text=Linara%20Kariyawasam&fontSize=45&fontColor=ffffff" />
 </div>
 
 
