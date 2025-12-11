@@ -11,7 +11,6 @@
 📈 Working with Python, SQL, Data Visualization and ML models to understand real-world data<br/>
 🛠️ Passionate about turning raw data into clear, impactful stories<br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=linara03&color=blue)
 
 # 🧑‍💻 Tech Stack
 
