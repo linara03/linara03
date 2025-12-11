@@ -1,4 +1,8 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Linara%20Kariyawasam&fontSize=45&animation=fadeIn&fontAlignY=35&fontColor=ffffff" /> </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Linara%20Kariyawasam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Passionate%20about%20AI,%20Machine%20Learning%20and%20Data-Driven%20Innovation&descSize=16&descAlignY=55" />
+</div>
+
+
 
 
 🌟 Data science enthusiast focused on building practical, data-driven solutions<br/>
