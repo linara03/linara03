@@ -10,7 +10,7 @@ Data Science Undergraduate at Sri Lanka Institute of Information Technology<br/>
 
 🧑‍💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,java,js,php,python,kotlin,vscode,androidstudio,eclipse,intellij,replit,bootstrap,express,nodejs,tailwind,react,nextjs,mysql,mongodb,postgres,aws,azure,figma,git,postman,sklearn,tensorflow,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,java,js,php,python,kotlin,vscode,androidstudio,eclipse,idea,replit,bootstrap,express,nodejs,tailwind,react,nextjs,mysql,mongodb,postgres,aws,azure,figma,git,postman,tensorflow,pytorch)](https://skillicons.dev)
 
 
 
